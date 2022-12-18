@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MohansGopi
+- 👋 Hi, I’m Payakan
 - 👀 I’m interested in Machine Learning And AI
 - 🌱 I’m currently learning Artificial Intelligence and Data Science
 - 💞️ I’m love to code, until my death
