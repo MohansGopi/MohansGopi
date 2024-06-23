@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Payakan
+- 👋 Hi, I’m Mohan S
 - 👀 I’m interested in Machine Learning And AI
-- 🌱 I’m currently learning Artificial Intelligence and Data Science
+- 🌱 I’m AI and DS graduate
 - 💞️ I’m love to code, until my death
 
 <!---
